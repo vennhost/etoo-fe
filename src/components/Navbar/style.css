@@ -1,0 +1,10 @@
+.basic-navbar-nav a:hover{
+        color: black;
+        background-color: #b33050;
+        transition: background-color .5s; 
+        border: '2px solid',
+        
+}
+.drop{
+    color: white;
+}

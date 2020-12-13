@@ -1,0 +1,9 @@
+.pad-down{
+    padding-bottom: 40px;
+}
+.body{
+  
+    background: #4c5fab;
+    transition: all .3s;
+    text-align: center;
+}
